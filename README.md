@@ -16,4 +16,4 @@ It showcases my front-end projects and demonstrates the use of different HTML el
 View the website here:  
 [https://gopikagopan1.github.io/html-portfolio/](https://gopikagopan1.github.io/html-portfolio/)
 
-## Project Structure
+
